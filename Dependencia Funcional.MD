@@ -35,13 +35,15 @@ Para establecer si existe una dependencia funcional entre atributos (A → B), d
 
 Imaginemos una tabla de empleados 👨💼:
 
-```
+```bash
 EMPLEADO(ID_Empleado, Nombre, Departamento, Jefe_Departamento)
 ```
 
 Aquí podemos identificar:
+
 - `ID_Empleado` → `Nombre` 🆔 (cada ID corresponde a un único nombre)
 - `Departamento` → `Jefe_Departamento` 🏢 (cada departamento tiene un único jefe)
 
 Pero no sería válido:
+
 - `Nombre` → `ID_Empleado` ❌ (podría haber empleados con el mismo nombre)
