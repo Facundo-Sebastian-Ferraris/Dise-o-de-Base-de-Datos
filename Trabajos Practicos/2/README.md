@@ -20,13 +20,14 @@
 
 🔹 Dada la siguiente relación **R(A, B, C, D, E)**:  
 
-| A  | B  | C  | D  | E  |  
+| A  | B  | ==C==  | D  | E  |  
 |----|----|----|----|----|  
 | A1 | B1 | C1 | D1 | E1 |  
 | A1 | B2 | C2 | D2 | E1 |  
 | A2 | B1 | C3 | D3 | E1 |  
 | A2 | B1 | C4 | D3 | E1 |  
 | A3 | B2 | C5 | D1 | E1 |  
+
 
 ❓ **¿Cuáles de estas dependencias satisface R?**  
 
@@ -38,20 +39,26 @@
 
 #### Resputesta
 
-- `A → D?`
+##### `A → D?`
 
-  - $\Large \Pi_{D}(\sigma_{A=A1}(R))=$
+- $\Large \Pi_{D}(\sigma_{A=A1}(R))=$
 
-| D  |
-|:--:|
-| D1 |
-| D2 |
+  - | D  |
+    |:--:|
+    | D1 |
+    | D2 |
 
+$$ \therefore A \nrightarrow D $$
 
-- **Por lo tanto:**  
-  $$ \therefore A -/> D $$
+##### `AB → D`  
 
----
+- $\Large \Pi_{D}(\sigma_{\substack{A = A2 \\ B = B1}}(R))=$
+
+  - | D  |
+    |:--:|
+    | D1 |
+
+  - $ \therefore AB \rightarrow D $
 
 ### **4️⃣ Algoritmo de Verificación de DF**  
 
