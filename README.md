@@ -5,6 +5,7 @@
 ## 🎯 Objetivos de la Materia
 
 Se espera que el/la estudiante profundice habilidades que le permitan:
+
 - 🧠 **Abstraer datos** y modelos de información de sistemas software
 - 🏗️ **Producir diseños de bases de datos** concretos y eficientes
 - ⚖️ **Evaluar alternativas** entre distintos diseños
@@ -25,6 +26,7 @@ Se espera que el/la estudiante profundice habilidades que le permitan:
 ## 🗺️ Programa Analítico
 
 ### Unidad I: 🧩 MODELO ENTIDAD-RELACIÓN
+
 - Estructura del sistema de bases de datos
 - Diagrama E-R extendido: atributos, especialización-generalización
 - Reducción de esquemas E-R a tablas
@@ -32,21 +34,25 @@ Se espera que el/la estudiante profundice habilidades que le permitan:
 > 🔍 *"Un buen diagrama E-R es el mapa del tesoro de tus datos"* 🔍
 
 ### Unidad II: 🧠 TEORÍA DE DISEÑO RELACIONAL
+
 - Problemas de mal diseño ❌
 - Dependencias Funcionales y cubrimientos minimales
 - Normalización (1FN - FNBC) 📈
 - Propiedades de la Descomposición
 
 ### Unidad III: 🔗 EL MODELO RELACIONAL
+
 - Concepto de Relación
 - Algebra Relacional y SQL avanzado
 - Aspectos de eficiencia ⚡
 
 ### Unidad IV: 🧩 MODELO OBJETO-RELACIONAL (ORM)
+
 - Diagramas de clases vs. Modelo E/R
 - Mapeo Objeto-Relacional
 
 ### Unidad V: ✅ CALIDAD DE DATOS
+
 - Dimensiones de Calidad
 - Enfoques: Detección vs. Prevención
 - Reglas basadas en uso
@@ -54,24 +60,28 @@ Se espera que el/la estudiante profundice habilidades que le permitan:
 > 🌟 *"Datos de calidad = Decisiones de calidad"* 🌟
 
 ### Unidad VI: ⛏️ MINERÍA DE DATOS
+
 - Conceptos y objetivos
 - Enfoques supervisado/no supervisado
 - Modelos de Minería
 
 ### Unidad VII: 🌐 BASES DISTRIBUÍDAS
+
 - Conceptos de transparencia y disponibilidad
 - Replicación y Fragmentación
 - Arquitecturas distribuidas
 
 ## 📚 Bibliografía
 
-### Básica:
+### Básica
+
 1. 📖 "Database Systems: The Complete Book" - Garcia-Molina, Ullman, Widom
 2. 📖 "Fundamentals of Database Systems" - Elmasri & Navathe
 3. 📖 "Database System Concepts" - Silberschatz, Korth, Sudarshan
 4. 📖 "Data Quality: Concepts, Methodologies" - Batini & Scannapieco
 
-### Consulta:
+### Consulta
+
 1. 📚 "Introducción a las BD Relacionales" - Mendelzon
 2. 📚 "El Modelo Relacional de Datos" - Fernandez Baizan
 3. 📚 "Data Quality: The Field Guide" - Redman

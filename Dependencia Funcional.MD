@@ -13,7 +13,7 @@ Para establecer si existe una dependencia funcional entre atributos (A → B), d
 1. **🆔 Unicidad de correspondencia**: Para cada valor de A, debe haber exactamente un valor de B.
 2. **⏳ Consistencia en el tiempo**: Esta relación debe mantenerse en todos los posibles estados de la base de datos.
 
-### 🔧 Métodos para identificar dependencias funcionales:
+### 🔧 Métodos para identificar dependencias funcionales
 
 1. **🧠 Análisis semántico**:
    - Examinar el significado de los datos y las reglas del negocio 🏢
