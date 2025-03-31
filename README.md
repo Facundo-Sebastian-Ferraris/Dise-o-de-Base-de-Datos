@@ -1,4 +1,4 @@
-# 📚 Diseño de Bases de Datos - README 🗃️
+# 📚 Diseño de Bases de Datos 🗃️
 
 **✨ "Los datos son el nuevo petróleo, pero solo cuando están bien refinados" ✨**
 
