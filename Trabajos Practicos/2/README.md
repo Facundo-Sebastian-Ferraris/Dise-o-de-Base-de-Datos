@@ -42,17 +42,10 @@
 
   - $\Large \Pi_{D}(\sigma_{A=A1}(R))=$
 
-$$
-\begin{array}{|c|}
-\hline
-\textbf{D}  \\ 
-\hline
-D1 \\
-\hline
-D2 \\
-\hline
-\end{array}
-$$
+| D  |
+|:--:|
+| D1 |
+| D2 |
 
 
 - **Por lo tanto:**  
