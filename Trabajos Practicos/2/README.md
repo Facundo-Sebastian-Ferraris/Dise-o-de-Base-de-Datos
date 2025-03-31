@@ -20,7 +20,7 @@
 
 🔹 Dada la siguiente relación **R(A, B, C, D, E)**:  
 
-| A  | B  | ==C==  | D  | E  |  
+| A  | B  | C  | D  | E  |  
 |----|----|----|----|----|  
 | A1 | B1 | C1 | D1 | E1 |  
 | A1 | B2 | C2 | D2 | E1 |  
@@ -28,37 +28,13 @@
 | A2 | B1 | C4 | D3 | E1 |  
 | A3 | B2 | C5 | D1 | E1 |  
 
-
 ❓ **¿Cuáles de estas dependencias satisface R?**  
 
-- `A → D`  
-- `AB → D`  
-- `C → BDE`  
-- `E → A`  
-- `A → E`  
-
-#### Resputesta
-
-##### `A → D?`
-
-- $\Large \Pi_{D}(\sigma_{A=A1}(R))=$
-
-  - | D  |
-    |:--:|
-    | D1 |
-    | D2 |
-
-$$ \therefore A \nrightarrow D $$
-
-##### `AB → D`  
-
-- $\Large \Pi_{D}(\sigma_{\substack{A = A2 \\ B = B1}}(R))=$
-
-  - | D  |
-    |:--:|
-    | D1 |
-
-  - $ \therefore AB \rightarrow D $
+- [`A → D`](./3-a.md) ❌
+- [`AB → D`](./3-b.md)  ✅
+- [`C → BDE`](./3-c.md) ✅
+- [`E → A`](./3-d.md) ❌
+- [`A → E`](./3-e.md)  ✅
 
 ### **4️⃣ Algoritmo de Verificación de DF**  
 
