@@ -80,3 +80,17 @@ Se espera que el/la estudiante profundice habilidades que le permitan:
 
 🚀 **Mensaje Final:**  
 *"Domina el diseño de bases de datos y tendrás el poder de estructurar el mundo digital. Cada tabla bien normalizada, cada relación bien definida, es un paso hacia sistemas más robustos y eficientes. ¡Conviértete en el arquitecto de la información!"* 💪🔥
+
+### 💡 **Claves Visuales para Cada Ejercicio**  
+
+| Ícono | Significado |  
+|-------|-------------|  
+| 🔍 | Análisis requerido |  
+| ⚙️ | Algoritmo necesario |  
+| 📊 | Ejemplo con datos |  
+| 🧩 | Problema complejo |  
+| ✅ | Verificación/Prueba |  
+
+> **"Organiza tus soluciones como tablas bien normalizadas: sin redundancias y con dependencias claras"** 🏗️✨  
+
+📌 **Nota:** Todas las consignas están listas para desarrollar. ¡Éxito en el TP! 🚀
